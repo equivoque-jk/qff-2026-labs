@@ -7,9 +7,9 @@
 | 한국어 | [Colab에서 시작하기](https://colab.research.google.com/github/equivoque-jk/qff-2026-labs/blob/main/lab4/QFF_Lab4_VQE.ipynb) | [QFF_Lab4_VQE.ipynb](QFF_Lab4_VQE.ipynb) |
 | English | [Open in Colab](https://colab.research.google.com/github/equivoque-jk/qff-2026-labs/blob/main/lab4/QFF_Lab4_VQE_EN.ipynb) | [QFF_Lab4_VQE_EN.ipynb](QFF_Lab4_VQE_EN.ipynb) |
 
-두 언어의 문제와 검사 기준은 같습니다. 기본 소문항 12개, 마지막 적용과 마무리 설명, 함수 TODO 3개가 있습니다. 노트북의 실행 환경 준비부터 읽고 위에서 아래로 진행하세요. 계산과 예상을 적은 뒤 `RUN_OBSERVATIONS`를 켜고 설정 셀과 해당 관찰 셀을 실행합니다. 공개 함수 검사는 관찰 설정과 독립적입니다.
+두 언어의 문제와 검사 기준은 같습니다. 기본 소문항 12개, 마지막 적용과 마무리 설명, 함수 TODO 3개가 있습니다. 노트북의 실행 환경 준비부터 읽고 위에서 아래로 진행하세요. 계산과 예상을 적은 뒤 `RUN_OBSERVATIONS`를 켜고 설정 셀과 해당 문항의 실습 코드 셀을 실행합니다. 공개 함수 검사는 실습 코드 실행 설정과 독립적입니다.
 
-Both editions have the same exercises and checks: 12 main subquestions, a final application, a closing explanation, and 3 function TODOs. Start with the notebook’s environment setup and work from top to bottom. Write your calculations and predictions before enabling `RUN_OBSERVATIONS`; then run the settings cell and the relevant observation cell. Public function checks run independently of that setting.
+Both editions have the same exercises and checks: 12 main subquestions, a final application, a closing explanation, and 3 function TODOs. Start with the notebook’s environment setup and work from top to bottom. Write your calculations and predictions before enabling `RUN_OBSERVATIONS`; then run the settings cell and the relevant experiment cell. Public function checks run independently of that setting.
 
 로컬 설치 / Local installation:
 
